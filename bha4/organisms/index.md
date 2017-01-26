@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Organisms
-permalink: /bha4/organisms/
+title: Culture Collection
+permalink: /bha3/annex/culture-collection/
 ---
 
-## Organisms
+## Culture Collection
 
 The following cultures are available in the Waag Society's Open Wetlab. In case you are following the Academy in one of the partner labs, check the availability with your coordinator:
 
 {% for page in site.pages %}
 {% if page.categories contains 'culture-collection' %}
-{% if page.url contains 'bha4' %}
+{% if page.url contains 'bha3' %}
 * [{{ page.title }}]({{ page.url | prepend: site.baseurl }})
 {% endif %}
 {% endif %}
@@ -28,5 +28,4 @@ The following cultures are available in the Waag Society's Open Wetlab. In case 
 
 * Yeast can be found in the baking section of any supermarket
 * Lactobacilli are sold as pills at any drug store
-
 

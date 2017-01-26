@@ -30,7 +30,7 @@ This week we will build our first Open Hardware lab device: the sterile hood. Th
 
 * [BHA_SterileHood repository](http://www.github.com/biohackacademy/BHA_SterileHood)
 
-![Sterile Hood](/bha4/class/1/SterileHood.png)
+![Sterile Hood]({{ site.baseurl }}/bha4/class/1/SterileHood.png)
 
 ## Bill of Materials
 
