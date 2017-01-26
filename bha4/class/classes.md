@@ -21,22 +21,22 @@ permalink: /bha4/classes/
 | [Class 4](/bha4/class/4) | [Class 5](/bha4/class/5) | [Class 6](/bha4/class/6) |
 | ------------- |---------------| ------|
 | Optics | Genetics | Midterm presentations |
-| Liquid culturing | Biosensing |  |
-| ![Microscope]({{ site.baseurl }}/bha4/class/microscope.png)|![Thermocycler]({{ site.baseurl }}/bha4/class/thermocycler.png)||
-| [Microscope](https://github.com/BioHackAcademy/BHA_Microscope) & [Webcam Microscope](https://github.com/BioHackAcademy/BHA_Webcam_Microscope) | [Thermocycler](https://github.com/BioHackAcademy/BHA_Thermocycler) & [Gelbox](https://github.com/BioHackAcademy/BHA_GelBox) | |
+| Liquid culturing | Biosensing | Seperation techniques |
+| ![Microscope]({{ site.baseurl }}/bha4/class/microscope.png)|![Thermocycler]({{ site.baseurl }}/bha4/class/thermocycler.png)| ![Centrifuge]({{ site.baseurl }}/bha4/class/centrifuge.png)|
+| [Microscope](https://github.com/BioHackAcademy/BHA_Microscope) & [Webcam Microscope](https://github.com/BioHackAcademy/BHA_Webcam_Microscope) | [Thermocycler](https://github.com/BioHackAcademy/BHA_Thermocycler) & [Gelbox](https://github.com/BioHackAcademy/BHA_GelBox) | [Centrifuge](https://github.com/BioHackAcademy/BHA_Centrifuge) |
 | Microscopy | DNA profiling | Open Lab |
-| Biotic Gaming | Cloning |  |
+| Biotic Gaming | Cloning | |
 
 * * *
 
 | [Class 7](/bha4/class/7) | [Class 8](/bha4/class/8) | [Class 9](/bha4/class/9) |
 | ------------- |---------------| ------|
-| Bioethics | Bioinformatics | Guest speaker |
-| Seperation techniques | Spectrometry | -|
-| ![Centrifuge]({{ site.baseurl }}/bha4/class/centrifuge.png)|![Spectrometer]({{ site.baseurl }}/bha4/class/spectrometer.png)|![Syringe Pump]({{ site.baseurl }}/bha4/class/syringepump.png)|
-| [Centrifuge](https://github.com/BioHackAcademy/BHA_Centrifuge) | [Spectrometer](https://github.com/BioHackAcademy/BHA_Spectrophotometer) & [Webcam Spectrometer](https://github.com/BioHackAcademy/BHA_Webcam_Spectrophotometer) | [Peristaltic Pump](https://github.com/BioHackAcademy/BHA_PeristalticPump), [Syringe Pump](https://github.com/BioHackAcademy/BHA_SyringePump) & [Photobioreactor](https://github.com/BioHackAcademy/BHA_Photobioreactor) |
-| Chloroplast isolation | PyMol | Open Lab |
-| P2P reviewing | Iodine Clock Reaction |  |
+| Guest Speaker | Ethics | Bioinformatics |
+| | Spectrometry | Spectrometry |
+| |![Spectrometer]({{ site.baseurl }}/bha4/class/spectrometer.png)|![Syringe Pump]({{ site.baseurl }}/bha4/class/syringepump.png)|
+| | [Spectrometer](https://github.com/BioHackAcademy/BHA_Spectrophotometer) & [Webcam Spectrometer](https://github.com/BioHackAcademy/BHA_Webcam_Spectrophotometer) | [Peristaltic Pump](https://github.com/BioHackAcademy/BHA_PeristalticPump), [Syringe Pump](https://github.com/BioHackAcademy/BHA_SyringePump) & [Photobioreactor](https://github.com/BioHackAcademy/BHA_Photobioreactor) |
+| P2P reviewing | Iodine Clock Reaction | PyMol |
+| Chloroplast isolation |  |  |
 
 ## Class 10
 
