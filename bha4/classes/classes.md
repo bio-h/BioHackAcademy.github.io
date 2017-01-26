@@ -19,7 +19,7 @@ permalink: /bha4/classes/
 | ------------- |---------------| ------|
 | Optics | Genetics | Midterm presentations |
 | Liquid culturing | Biosensing |  |
-| Microscope | Thermocycler | |
+| Microscope | Thermocycler & Gelbox | |
 | Microscopy | DNA profiling | Open Lab |
 | Biotic Gaming | Cloning |  |
 
@@ -28,7 +28,7 @@ permalink: /bha4/classes/
 | ------------- |---------------| ------|
 | Bioethics | Bioinformatics | Guest speaker |
 | Seperation techniques | Spectrometry | |
-| Centrifuge | Spectrometer | Peristaltic Pump, Syringe pump, Photobioreactor |
+| Centrifuge | Spectrometer | Peristaltic Pump, Syringe pump & Photobioreactor |
 | Chloroplast isolation | PyMol | Open Lab |
 | P2P reviewing | Iodine Clock Reaction |  |
 
