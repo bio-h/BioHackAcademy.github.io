@@ -16,6 +16,9 @@ The following cultures are available in the Waag Society's Open Wetlab. In case 
 {% endif %}
 {% endfor %}
 
+## Cultivation media
+Here are all the [recipes for cultivation media](/bha4/cultivation-media/) to grow the microbes on listed above.
+
 ## Isolate yourself
 
 * Lactic acid bacteria from unpasteurized dairy product like Yakult
