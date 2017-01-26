@@ -10,52 +10,58 @@ Microbes can generate a lot of data. Especially 3D data is beautiful and essenti
 
 ## Schedule
 
-* [Bioinformatics](/bha3/class/9/pdf/1 Bioinformatics.pdf)
-* [Spectrometer Design](/bha3/class/9/pdf/2 Spectrometer design.pdf)
+* Bioinformatics
+* Spectrometer Design
 * Practicals
-  * [PyMol](/bha3/class/9/pdf/PyMol Tutorial.pdf)
-  * [Iodine Clock Reaction](/bha3/class/9/iodine-clock-reaction/)
+  * PyMol
+  * [Iodine Clock Reaction](/bha4/class/9/iodine-clock-reaction/)
 
 ## Devices
 
-This week we will build a spectrometer. We have created 2 spectrometer designs, you may choose which design to build. The Webcam based device is the simplest.
+This week you can build two types of pumps. As with the other projects, each of the devices has its own github repository.
 
-### Webcam-based spectrometer
+### Some notes on the source files and designs
+* Code: We have included the LiquidCrystal_I2C library. However, as there are multiple libraries named LiquidCrystal_I2C around on the web, if you have included one in your Arduino libraries directory it can result in a conflict (errors during compilation). Temporarily remove the library from your Arduino libraries directory.
+* Peristaltic pump: the design of the pump depends on the diameter of the tube. In case you use a different type, you will need to adjust the diameters. In our design we used HelixMark™ tubes (internal diameter 6.35 mm; external diameter 9.55 mm)
+* Syringe pump: the mounting interface between the pump and the syringe depends on the type of syringe you use. In our design we used a MediWare 60mL syringe (REF: I3 040800).
 
-For fast and easy graphical analysis.
+### Syringe pump
 
-* [BHA_Webcam_Spectrophotometer repository](https://github.com/BioHackAcademy/BHA_Webcam_Spectrophotometer)
+This pump is best for moving small volumes of liquids.
 
-### Photodiode array-based photospectrometer
+* [BHA_SyringePump repository](https://github.com/BioHackAcademy/BHA_SyringePump)
 
-This is a more precise analytical instrument. Why not hack it into a flow cell spectrometer?
+### Peristaltic pump
 
-* [BHA_Spectrophotometer repository](https://github.com/BioHackAcademy/BHA_Spectrophotometer)
+This pump is best for moving small volumes of liquids.
+
+* [BHA_PeristalticPump repository](https://github.com/BioHackAcademy/BHA_PeristalticPump)
+* [Building guide](/biofactory/class/8-pumps/peristaltic-pump-building-guide/) 
+
+Finished peristaltic pump:
+[![Peristaltic Pump in action](http://img.youtube.com/vi/rvNwhfQSCfg/0.jpg)](http://www.youtube.com/watch?v=rvNwhfQSCfg)
+
+[Watch the pump in action on Youtube](http://www.youtube.com/watch?v=rvNwhfQSCfg)
 
 ## Bill of Materials
 
 In order to take part in this class you will need the following materials:
 
-* [Webcam Spectrophotometer materials](https://github.com/BioHackAcademy/BHA_Webcam_Spectrophotometer)
-* [Spectrophotometer materials](https://github.com/BioHackAcademy/BHA_Spectrophotometer)
+* [Syringe Pump materials](https://github.com/BioHackAcademy/BHA_PeristalticPump/blob/master/BoM.md)
+* [Peristaltic Pump materials](https://github.com/BioHackAcademy/BHA_SyringePump/blob/master/BoM.md)
 
 ## Additional reading and hacking
 
-* Spectroscopy
-  * [PublicLab](http://publiclab.org/wiki/spectrometer)
-  * [Calibration Assays](http://www.iorodeo.com/colorimeter/assays)
-* DIY Spectrometers
-  * [Really Basic - Instructable](http://www.instructables.com/id/DIY-Spectroscope/)
-  * [Spectruino](http://myspectral.com/)
-  * [CCD array](http://publiclab.org/notes/bhickman/10-12-2013/ccd-diodearray-spectrometer)
-  * [TSL1402R](http://playground.arduino.cc/Main/TSL1402R)
-* DIY absorbance meters
-  * [Open Source Colorimeter](http://www.appropedia.org/Open-source_colorimeter)
+* DIY Syringe pumps
+  * [OpenPump](https://www.wevolver.com/gerrit.niezen/openpump---an-open-source-hardware-syringe-pump/openpump)
+* DIY Peristaltic pumps
+  * [Instructable Peristaltic Pump](http://www.instructables.com/id/Inexpensive-easy-to-build-peristaltic-pump/)
 
 ## Feeling lazy?
 
-Go ahead and buy a spectrometer:
+Go ahead and buy some pumps:
 
-* Second hand photospectrometers at [LabX](http://www.labx.com/spectrophotometer-uv-vis-fluor) 
+* [Syringepump.com](http://www.syringepump.com/index.php)
+* [LabX Peristaltic Pump](http://www.labx.com/pumps-peristaltic)
 
 Back to [BHA4](/bha4/)

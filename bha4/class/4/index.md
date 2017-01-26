@@ -11,19 +11,19 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Biomaterial production
 * Optics
+* Liquid culturing
 * Microscope Design
 * Practicals
-  * [Preparing microscope slides](/bha3/class/4/preparing-slides/)
-  * [Operating a microscope](/bha3/class/4/operating-microscope/)
-  * [Gram Staining](/bha3/class/4/gram-staining/)
-  * [Loeffler Methylene Blue Staining](/bha3/class/4/loeffler-staining/)
-  * [Alternative staining with food colouring](/bha3/class/4/Alternative stain/)
+  * [Preparing microscope slides](/bha4/class/4/preparing-slides/)
+  * [Operating a microscope](/bha4/class/4/operating-microscope/)
+  * [Gram Staining](/bha4/class/4/gram-staining/)
+  * [Loeffler Methylene Blue Staining](/bha4/class/4/loeffler-staining/)
+  * [Alternative staining with food colouring](/bha4/class/4/Alternative stain/)
 
 ## Devices
 
-> This time you may choose what type of device you like to build. The Microscope Webcam Hack is relatively simple, compared to the full Microscope Design.
+> This week you may choose what type of device you like to build. The Microscope Webcam Hack is relatively simple, compared to the full Microscope Design.
 
 ### Webcam Microscope
 
@@ -63,4 +63,4 @@ Go ahead and buy a microscope:
 
 * [LCD video microscope](https://www.conrad.nl/nl/bresser-lcd-microscoop-35-inch-40x-1600x-815889.html)
 
-Back to [BHA3](/bha3/)
+Back to [BHA4](/bha4/)

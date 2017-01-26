@@ -10,12 +10,11 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 
 ## Schedule
 
-* [Physiology](/bha3/class/3/pdf/1 Microbial Physiology.pdf)
-* [Digital Electronics](/bha3/class/3/pdf/3 Arduino.pdf)
-* [Incubator Design](/bha3/class/3/pdf/4 Incubator design.pdf)
+* Biomaterials
+* Creative Bio Equipment
+* Digital Electronics
 * Practicals
   * [Isolating microbes](http://www.ableweb.org/volumes/vol-14/6-steubing.pdf)
-  * [Antibiotics screening](/bha3/class/3/pdf/Plant-Extraction.pdf)
   * Arduino coding
 
 ## Devices
@@ -28,7 +27,7 @@ Living organisms need a nice and comfort environment to grow in.
 
 ## Bill of Materials
 
-This device is the first device in the course that makes use of an Arduno and digital electronics. You may either choose to connect all the components manually, or build the device on top of the BioHack Academy board. Make sure you order the parts in time!
+This device is the first device in the course that makes use of an Arduno and digital electronics. You may either choose to connect all the components manually, or build the device on top of the [BioHack Academy board](https://github.com/BioHackAcademy/BioHackBoard). Make sure you order the parts in time!
 
 In order to take part in this class you will need the following materials:
 
@@ -52,4 +51,4 @@ Go ahead and buy an incubator:
 
 * [Lucky Reptile](http://www.amazon.co.uk/Lucky-Reptile-HN-2UK-Nursery-Incubator/dp/B002NFR0HQ)
 
-Back to [BHA3](/bha3/)
+Back to [BHA4](/bha4/)

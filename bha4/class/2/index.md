@@ -11,16 +11,15 @@ This week we will start growing microbes under controlled conditions. During the
 
 ## Schedule
 
-* [Microbiology](/bha3/class/2/pdf/1 Intro Microbiology.pdf)
-* [Creative Bio Engineering](/bha3/class/2/pdf/2 Creative Bio Engineering.pdf)
+* Microbiology
+* Bio art / design
 * Documentation
   * [Setting up a Github page](https://github.com/BioHackAcademy/BHA_DocumentationSite)
-* [Magnetic Stirrer design](/bha3/class/2/pdf/5 Magnetic Stirrer design.pdf)
-* [Open source licensing](/bha3/class/2/pdf/3 Open Source licensing & publishing.pdf)
+* Magnetic Stirrer design
+* Open source licensing
 * Practicals
-  * [Microbiological techniques](/bha3/class/2/pdf/7.Microbiological.techniques.pdf)
-  * [Contamination test](/bha3/class/2/contamination-test/)
-  * [Cultivating microbes](/bha3/class/2/Microbe Cultivation Manual.pdf) of the [Culture Collection](/bha3/annex/culture-collection/)
+  * [Contamination test](/bha4/class/2/contamination-test/)
+  * [Cultivating microbes](/bha4/class/2/Microbe Cultivation Manual.pdf) of the [Culture Collection](/bha4/organisms/)
   
 
 ## Devices
@@ -29,7 +28,7 @@ In order to grow microbes in liquids, we will start building a Magnetic Stirrer.
 
 * [BHA_Stirrer repository](https://github.com/BioHackAcademy/BHA_Stirrer)
 
-![Magnetic Stirrer](/bha4/class/2/Magnetic-Stirrer-Sketchup.jpg)
+![Magnetic Stirrer]({{ site.baseurl }}/bha4/class/2/Magnetic-Stirrer-Sketchup.jpg)
 
 ## Bill of Materials
 
