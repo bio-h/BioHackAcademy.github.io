@@ -6,7 +6,7 @@ permalink: /bha4/classes/
 
 ## Classes
 
-| [Week 1](/bha4/class/1) | [Week 2](/bha4/class/2) | [Week 3](/bha4/class/3) |
+| [Class 1](/bha4/class/1) | [Class 2](/bha4/class/2) | [Class 3](/bha4/class/3) |
 | ------------- |---------------| ------|
 | Course introduction | Microbiology | Biomaterials |
 | History of BioHacking | Bio art / design | Creative Bio Equipment |
@@ -16,7 +16,7 @@ permalink: /bha4/classes/
 | Sketchup & FreeCAD | Cultivating Microbes | Isolation of Microbes |
 | Principles of electronics | | Coding Arduino |
 
-| [Week 4](/bha4/class/4) | [Week 5](/bha4/class/5) | [Week 6](/bha4/class/6) |
+| [Class 4](/bha4/class/4) | [Class 5](/bha4/class/5) | [Class 6](/bha4/class/6) |
 | ------------- |---------------| ------|
 | Optics | Genetics | Midterm presentations |
 | Liquid culturing | Biosensing |  |
@@ -26,7 +26,7 @@ permalink: /bha4/classes/
 | Biotic Gaming | Cloning |  |
 
 
-| [Week 7](/bha4/class/7) | [Week 8](/bha4/class/8) | [Week 9](/bha4/class/9) |
+| [Class 7](/bha4/class/7) | [Class 8](/bha4/class/8) | [Class 9](/bha4/class/9) |
 | ------------- |---------------| ------|
 | Bioethics | Bioinformatics | Guest speaker |
 | Seperation techniques | Spectrometry | |
@@ -35,6 +35,6 @@ permalink: /bha4/classes/
 | Chloroplast isolation | PyMol | Open Lab |
 | P2P reviewing | Iodine Clock Reaction |  |
 
-## Week 10
+## Class 10
 
 Graudation show on April 4th!
