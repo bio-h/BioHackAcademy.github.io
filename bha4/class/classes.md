@@ -11,7 +11,7 @@ permalink: /bha4/classes/
 | Course introduction | Microbiology | Biomaterials |
 | History of BioHacking | Bio art / design | Creative Bio Equipment |
 | 3D Design | Documenting | Digital Electronics |
-| ![Sterile Hood](sterilehood.png)|![Stirrer](stirrer.png)|![Incubator](incubator.png)|
+| ![Sterile Hood]({{ site.baseurl }}/bha4/class/sterilehood.png)|![Stirrer]({{ site.baseurl }}/bha4/class/stirrer.png)|![Incubator]({{ site.baseurl }}/bha4/class/incubator.png)|
 | [Sterile Hood](https://github.com/BioHackAcademy/BHA_SterileHood) | [Stirrer](https://github.com/BioHackAcademy/BHA_Stirrer) | [Incubator](https://github.com/BioHackAcademy/BHA_Incubator) |
 | Sketchup & FreeCAD | Cultivating Microbes | Isolation of Microbes |
 | Principles of electronics | | Coding Arduino |
@@ -22,7 +22,7 @@ permalink: /bha4/classes/
 | ------------- |---------------| ------|
 | Optics | Genetics | Midterm presentations |
 | Liquid culturing | Biosensing |  |
-| ![Microscope](microscope.png)|![Thermocycler](thermocycler.png)||
+| ![Microscope]({{ site.baseurl }}/bha4/class/microscope.png)|![Thermocycler]({{ site.baseurl }}/bha4/class/thermocycler.png)||
 | [Microscope](https://github.com/BioHackAcademy/BHA_Microscope) & [Webcam Microscope](https://github.com/BioHackAcademy/BHA_Webcam_Microscope) | [Thermocycler](https://github.com/BioHackAcademy/BHA_Thermocycler) & [Gelbox](https://github.com/BioHackAcademy/BHA_GelBox) | |
 | Microscopy | DNA profiling | Open Lab |
 | Biotic Gaming | Cloning |  |
@@ -33,7 +33,7 @@ permalink: /bha4/classes/
 | ------------- |---------------| ------|
 | Bioethics | Bioinformatics | Guest speaker |
 | Seperation techniques | Spectrometry | -|
-| ![Centrifuge](centrifuge.png)|![Spectrometer](spectrometer.png)|![Syringe Pump](syringepump.png)|
+| ![Centrifuge]({{ site.baseurl }}/bha4/class/centrifuge.png)|![Spectrometer]({{ site.baseurl }}/bha4/class/spectrometer.png)|![Syringe Pump]({{ site.baseurl }}/bha4/class/syringepump.png)|
 | [Centrifuge](https://github.com/BioHackAcademy/BHA_Centrifuge) | [Spectrometer](https://github.com/BioHackAcademy/BHA_Spectrophotometer) & [Webcam Spectrometer](https://github.com/BioHackAcademy/BHA_Webcam_Spectrophotometer) | [Peristaltic Pump](https://github.com/BioHackAcademy/BHA_PeristalticPump), [Syringe Pump](https://github.com/BioHackAcademy/BHA_SyringePump) & [Photobioreactor](https://github.com/BioHackAcademy/BHA_Photobioreactor) |
 | Chloroplast isolation | PyMol | Open Lab |
 | P2P reviewing | Iodine Clock Reaction |  |
