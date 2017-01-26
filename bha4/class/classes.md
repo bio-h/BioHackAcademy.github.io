@@ -6,6 +6,8 @@ permalink: /bha4/classes/
 
 ## Classes
 
+{% include class-table.html %}
+
 | [Class 1](/bha4/class/1) | [Class 2](/bha4/class/2) | [Class 3](/bha4/class/3) |
 | --------------- | --------------- | --------------- |
 | Course introduction | Microbiology | Biomaterials |
