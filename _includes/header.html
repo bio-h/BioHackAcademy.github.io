@@ -15,10 +15,11 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title == "About" or page.title == "BHA 4" or page.title == "Archive" %}
+          {% if page.title == "About" or page.title == "Classes" or page.title == "Participants" or page.title == "Discuss" or page.title == "Organisms" %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        <a class="page-link" href="http://www.github.com/BioHackAcademy">Repos</a>
       </div>
     </nav>
 
