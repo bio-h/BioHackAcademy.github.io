@@ -16,6 +16,8 @@ Netherlands:
 * [iPrototype](http://www.iprototype.nl)
 * [EOO](http://www.eoo-bv.nl)
 * [Floris.cc](http://www.floris.cc)
+* [Ben's Electronics](https://benselectronics.nl)
+* [Hacker Store](https://www.hackerstore.nl)
 
 Chinese suppliers (take possible long shipping time into account):
 
@@ -72,7 +74,3 @@ Online fabbing services
 * [Ponoko](http://www.ponoko.com)
 * [Formulor](http://www.formulor.de)
 * [Shapeways](http://www.shapeways.com)
-
-Fabbing materials
-
-* [FabLab Amsterdam suppliers](http://fablab.waag.org/views/suppliers)
