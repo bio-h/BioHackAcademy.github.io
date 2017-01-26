@@ -18,4 +18,4 @@ It's time for a party! Let's celebrate the end of 10 weeks of biohacking. Invite
 
 Relax, we made it!
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)

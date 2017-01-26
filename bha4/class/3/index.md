@@ -51,4 +51,4 @@ Go ahead and buy an incubator:
 
 * [Lucky Reptile](http://www.amazon.co.uk/Lucky-Reptile-HN-2UK-Nursery-Incubator/dp/B002NFR0HQ)
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)

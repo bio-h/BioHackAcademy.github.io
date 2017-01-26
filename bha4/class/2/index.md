@@ -56,4 +56,4 @@ Go ahead and buy a stirrer:
 
 * [VWR](https://us.vwr.com/store/catalog/category.jsp?id=597830)
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)

@@ -61,4 +61,4 @@ Go ahead and buy a thermocycler:
 
 * [BioRad PCR machines](http://www.bio-rad.com/en-nl/category/pcr-instrumentation)
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)

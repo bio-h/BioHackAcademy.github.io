@@ -48,4 +48,4 @@ Go ahead and buy a table top centrifuge:
 
 * [Eppendorf 5424](http://www.eppendorf.com/int/index.php?sitemap=2.1&action=products&contentid=1&catalognode=22420)
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)

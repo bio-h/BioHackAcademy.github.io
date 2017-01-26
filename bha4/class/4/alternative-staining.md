@@ -38,9 +38,6 @@ Visualize cell nuclei in eukaryote cells.
 14. Remove excess nail polish with a cotton swab with acetone.
 15. Take a look at the sample through the microscope with the diaphragm fully open.
 
-![Food colouring](xxxx)
-
-
 ## Read more
 
 * [Illustrated guide to home biology](http://www.thehomescientist.com/manuals/Illustrated_Guide_to_Home_Biology_Experiments.pdf)

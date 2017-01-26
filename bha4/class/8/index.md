@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Class 8 - Guest speaker
+title: Class 8 - Ethics
 permalink: /bha4/class/8/
 ---
 
@@ -58,4 +58,4 @@ Go ahead and buy a spectrometer:
 
 * Second hand photospectrometers at [LabX](http://www.labx.com/spectrophotometer-uv-vis-fluor) 
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)

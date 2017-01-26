@@ -63,4 +63,4 @@ Go ahead and buy a microscope:
 
 * [LCD video microscope](https://www.conrad.nl/nl/bresser-lcd-microscoop-35-inch-40x-1600x-815889.html)
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)

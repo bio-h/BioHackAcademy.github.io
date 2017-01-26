@@ -64,4 +64,4 @@ Go ahead and buy some pumps:
 * [Syringepump.com](http://www.syringepump.com/index.php)
 * [LabX Peristaltic Pump](http://www.labx.com/pumps-peristaltic)
 
-Back to [BHA4](/bha4/)
+Back to [BHA4 Classes](/bha4/classes/)
