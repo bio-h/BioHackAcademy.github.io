@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title == "About" or page.title == "Classes" or page.title == "Participants" or page.title == "Discuss" or page.title == "Organisms" %}
+          {% if page.title == "Classes" or page.title == "Participants" or page.title == "Discuss" or page.title == "Organisms" %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
