@@ -33,7 +33,7 @@ permalink: /bha4/classes/
 | ------------- |---------------| ------|
 | Guest Speaker | Ethics | Bioinformatics |
 | | Spectrometry | Spectrometry |
-| |![Spectrometer]({{ site.baseurl }}/bha4/class/spectrometer.png)|![Syringe Pump]({{ site.baseurl }}/bha4/class/syringepump.png)|
+| ![empty]({{ site.baseurl }}/bha4/class/empty.png) |![Spectrometer]({{ site.baseurl }}/bha4/class/spectrometer.png)|![Syringe Pump]({{ site.baseurl }}/bha4/class/syringepump.png)|
 | | [Spectrometer](https://github.com/BioHackAcademy/BHA_Spectrophotometer) & [Webcam Spectrometer](https://github.com/BioHackAcademy/BHA_Webcam_Spectrophotometer) | [Peristaltic Pump](https://github.com/BioHackAcademy/BHA_PeristalticPump), [Syringe Pump](https://github.com/BioHackAcademy/BHA_SyringePump) & [Photobioreactor](https://github.com/BioHackAcademy/BHA_Photobioreactor) |
 | P2P reviewing | Iodine Clock Reaction | PyMol |
 | Chloroplast isolation |  |  |
