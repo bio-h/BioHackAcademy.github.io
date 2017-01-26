@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microbiology Practical Materials
-permalink: /bha4/cultivation-media/materials.md
+permalink: /bha4/cultivation-media/materials/
 ---
 
 # Materials
