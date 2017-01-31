@@ -12,9 +12,9 @@ You are at the start of your journey into the marvelous world of Biohacking. To 
 
 * Introduction [PDF](/bha4/class/1/pdf/0 - Introduction.pdf) - [Video](https://vimeo.com/201878928)
 * History of BioHacking [PDF](/bha4/class/1/pdf/1 - History of Biohacking.pdf) - [Video 1](https://vimeo.com/201878928) - [Video 2](https://vimeo.com/201883446)
-* Biosafety & Maker ethics [PDF](/bha4/class/1/pdf/2 - Biosafety & Maker ethics.pdf) - [Video]()
+* Biosafety & Maker ethics [PDF](/bha4/class/1/pdf/2 - Biosafety & Maker ethics.pdf) - [Video](https://vimeo.com/201885356)
 * 3D Design
-* Sterile Hood Design [PDF](/bha4/class/1/pdf/4 - Sterile hood design.pdf) - [Video]()
+* Sterile Hood Design [PDF](/bha4/class/1/pdf/4 - Sterile hood design.pdf) - [Video](https://vimeo.com/201886450)
 * Practicals
   * Tour around your lab
   * Digital Fabrication / 3D CAD Design
