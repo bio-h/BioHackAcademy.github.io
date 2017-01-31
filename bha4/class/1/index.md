@@ -58,6 +58,7 @@ This week we have a number of assignments:
   * [DIYBio](http://www.diybio.org)
   * [Hackteria](http://www.hackteria.org)
   * [Biocoder](http://www.biocoder.com)
+  * [Open Source Bio Lab hardware overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
 * Electronics
   * [Electronics for Dummies](http://www.amazon.com/Electronics-For-Dummies-Cathleen-Shamieh/dp/0470286970)
   * [Soldering](https://www.youtube.com/watch?v=oqV2xU1fee8) YouTube video

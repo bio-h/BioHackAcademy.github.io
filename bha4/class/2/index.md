@@ -40,7 +40,9 @@ In order to take part in this class you will need the following materials:
 
 * Microbiology
   * [Microbiology](http://education-portal.com/academy/course/microbiology-course.html)
+  * [Instruction video on making agar plates](https://vimeo.com/193707826)
   * [Introduction to Microbiology Culture Techniques](https://www.youtube.com/watch?v=Et1v8EQP10U) YouTube video
+  * [Instruction on storing microbes in the freezer](https://www.youtube.com/watch?v=sxJmmpaOvNU)
 * Github
   * [How the heck do I use Github](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
   * [Git cheatsheet](http://rogerdudler.github.io/git-guide/)
