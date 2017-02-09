@@ -11,12 +11,12 @@ This week we will start growing microbes under controlled conditions. During the
 
 ## Schedule
 
-* Microbiology
-* Bio art / design
-* Documentation
+* Microbiology [PDF](/bha4/class/2/pdf/1 Microbiology.pdf) - [Video](https://vimeo.com/203093247)
+* Bio art / design - skipped due to lack of time
+* Documentation & Open source licensing [PDF](/bha4/class/2/pdf/4 Documentation.pdf) - [Video](https://vimeo.com/203093544)
   * [Setting up a Github page](https://github.com/BioHackAcademy/BHA_DocumentationSite)
-* Magnetic Stirrer design
-* Open source licensing
+* Magnetic Stirrer design [PDF](/bha4/class/2/pdf/5 Magnetic Stirrer design.pdf) - [Video](https://vimeo.com/203093639)
+* Principles of Electronics [PDF](/bha4/class/2/pdf/3 Electronics.pdf) - [Video](https://vimeo.com/203093471)
 * Practicals
   * [Contamination test](/bha4/class/2/contamination-test/)
   * [Cultivating microbes](/bha4/class/2/Microbe Cultivation Manual.pdf) of the [Culture Collection](/bha4/organisms/)
