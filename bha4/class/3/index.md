@@ -6,13 +6,13 @@ permalink: /bha4/class/3/
 
 ## Synopsys
 
-Build your own incubator, a constant environment for growing microbes. A crash course Arduino programming and digital electronics. During the practical we will start isolating microbes ourselves and do screening for antibiotics effects.
+Build your own incubator, a constant environment for growing microbes. A crash course Arduino programming and digital electronics. During the practical we will start isolating microbes ourselves.
 
 ## Schedule
 
 * Biomaterials
-* Creative Bio Equipment
-* Digital Electronics
+* Bio Art
+* Arduino - Digital Electronics
 * Practicals
   * [Isolating microbes](http://www.ableweb.org/volumes/vol-14/6-steubing.pdf)
   * Arduino coding
@@ -42,8 +42,6 @@ In order to take part in this class you will need the following materials:
 * Incubators
   * [Climaduino](http://www.instructables.com/id/Introducing-Climaduino-The-Arduino-Based-Thermosta/)
   * [Biodesign DIY Incubator](http://biodesign.cc/2013/12/25/diy-incubator/)
-* Antibiotics
-  * [BioStrike documentation](https://drive.google.com/drive/u/0/folders/0BzADIb9rSQQ3WTI4Z0pWOGl2bzg)
 
 ## Feeling lazy?
 
