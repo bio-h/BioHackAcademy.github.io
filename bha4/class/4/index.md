@@ -11,14 +11,16 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Optics
-* Liquid culturing
-* Microscope Design
+* Optics - video [PDF](/bha4/class/4/pdf/1 Microscopy & Optics theory.pdf)
+* Microscope Design - video [PDF](/bha4/class/4/pdf/2 Microscope design.pdf)
+* Biotic Gaming - video [PDF](/bha4/class/4/pdf/3 Biotic Gaming.pdf)
+* Bio art & design - video [PDF](/bha4/class/4/pdf/4 Bio art design.pdf)
 * Practicals
   * [Preparing microscope slides](/bha4/class/4/preparing-slides/)
   * [Operating a microscope](/bha4/class/4/operating-microscope/)
   * [Gram Staining](/bha4/class/4/gram-staining/)
   * [Loeffler Methylene Blue Staining](/bha4/class/4/loeffler-staining/)
+  * Liquid culturing
   * [Alternative staining with food colouring](/bha4/class/4/Alternative stain/)
 
 ## Devices

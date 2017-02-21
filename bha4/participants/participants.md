@@ -23,6 +23,6 @@ Please send the link to your documentation site as soon as it is setup to [piete
 * [Shenzhen Open Innovation Lab - China](http://szoil.org/wp/)
   * 
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
-  * 
+  * [Kaitbryson](https://github.com/Kaitbryson)
 * [Waag Society's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-4)
   * 
