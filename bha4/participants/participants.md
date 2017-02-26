@@ -13,7 +13,7 @@ Here you may find [the instructions to create your own Github page](https://gith
 Please send the link to your documentation site as soon as it is setup to [pieter@waag.org](mailto:pieter@waag.org). 
 
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
-  * 
+  * [Coordinator page](https://github.com/BioClub/lab/wiki/BHA4)
 * [BioHack Western Australia - Perth](http://biohackwa.com)
   * [Coordinator page](https://biohackwa.github.io/projects/)
   * [Ziggy Oreilly](https://ziggy-oreilly.github.io)
