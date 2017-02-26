@@ -11,10 +11,10 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Optics - video [PDF](/bha4/class/4/pdf/1 Microscopy & Optics theory.pdf)
-* Microscope Design - video [PDF](/bha4/class/4/pdf/2 Microscope design.pdf)
-* Biotic Gaming - video [PDF](/bha4/class/4/pdf/3 Biotic Gaming.pdf)
-* Bio art & design - video [PDF](/bha4/class/4/pdf/4 Bio art design.pdf)
+* Optics - [video](https://vimeo.com/205290717) [PDF](/bha4/class/4/pdf/1 Microscopy & Optics theory.pdf)
+* Microscope Design - [video](https://vimeo.com/205290994) [PDF](/bha4/class/4/pdf/2 Microscope design.pdf)
+* Biotic Gaming - [video](https://vimeo.com/205291275) [PDF](/bha4/class/4/pdf/3 Biotic Gaming.pdf)
+* Bio art & design - [video](https://vimeo.com/205291560) [PDF](/bha4/class/4/pdf/4 Bio art design.pdf)
 * Practicals
   * [Preparing microscope slides](/bha4/class/4/preparing-slides/)
   * [Operating a microscope](/bha4/class/4/operating-microscope/)
