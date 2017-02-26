@@ -25,5 +25,6 @@ Please send the link to your documentation site as soon as it is setup to [piete
   * 
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
   * [Kaitbryson](https://github.com/Kaitbryson)
+  * [Sabrina Islam](http://www.github.com/sabislam)
 * [Waag Society's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-4)
   * 
