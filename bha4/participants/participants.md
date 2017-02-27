@@ -27,4 +27,5 @@ Please send the link to your documentation site as soon as it is setup to [piete
   * [Kaitbryson](https://github.com/Kaitbryson)
   * [Sabrina Islam](http://www.github.com/sabislam)
 * [Waag Society's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-4)
-  * 
+  * [Maria](https://github.com/mariap3636)
+  * [Raza](https://r4za.github.io/BiohackAcademy2017/)
