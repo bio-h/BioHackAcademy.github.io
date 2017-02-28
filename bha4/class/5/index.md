@@ -10,8 +10,8 @@ This week we will start working with DNA, the fundamental building block of life
 
 ## Schedule
 
-* Genetics
-* BioSensing
+* Genetics [PDF](/bha4/class/5/pdf/1 - Genetics.pdf) [Video1](https://vimeo.com/206104677) [Video2](https://vimeo.com/206104335)
+* Thermocycler design [PDF](/bha4/class/5/pdf/2 - Thermocycler Design.pdf) [Video](https://vimeo.com/206104843)
 * Practicals
   * [DNA extraction](/bha4/class/5/DNA-extraction/)
   * [DNA profiling](http://bio-rad.com/en-us/product/forensic-dna-fingerprinting-kit)
