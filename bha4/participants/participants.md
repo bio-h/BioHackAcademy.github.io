@@ -26,6 +26,8 @@ Please send the link to your documentation site as soon as it is setup to [piete
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
   * [Kaitbryson](https://github.com/Kaitbryson)
   * [Sabrina Islam](http://www.github.com/sabislam)
+  * [Mick Lorusso](https://micro-macro-lorusso.github.io)
 * [Waag Society's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-4)
   * [Maria](https://github.com/mariap3636)
   * [Raza](https://r4za.github.io/BiohackAcademy2017/)
+  * [Jan Maarten](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/_posts/2017-02-26-J4n-M44rt3n's-projects.md)
