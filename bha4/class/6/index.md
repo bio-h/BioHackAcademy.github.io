@@ -10,9 +10,7 @@ This week is up to you! Present your project idea to your fellow BHA participant
 
 ## Schedule
 
-* Midterm presentations
-* Seperation Techniques
-* Centrifuge Design
+* Midterm presentations [video](https://vimeo.com/207311186)
 * Practicals
   * Your project
   * Documentation
