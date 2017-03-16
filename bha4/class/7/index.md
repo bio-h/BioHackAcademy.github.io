@@ -12,7 +12,7 @@ We’ll also try to isolate our first biomaterial.
 
 ## Schedule
 
-* Guest Lecture
+* Guest Lecture [Video](https://vimeo.com/208713861)
 * Centrifuge design [Video](https://vimeo.com/208227981) [PDF](/bha4/class/7/pdf/centrifuge-design.pdf)
 * Practicals
   * Peer 2 Peer reviewing
