@@ -22,7 +22,13 @@ Please send the link to your documentation site as soon as it is setup to [piete
 * [National Museum of Modern and Contemporary Art - South Korea](https://www.mmca.go.kr/eng/)
   * 
 * [Shenzhen Open Innovation Lab - China](http://szoil.org/wp/)
-  * 
+  * [Yufei .ma 马宇飞](http://yufei.ma/categories/BioHack-Academy/)
+  * [Rui.wang 王蕤](https://wangruiweiwei.gitbooks.io/biohacker-practise/content/)
+  * [Qiqi.guo 郭琪琦](https://guoqiqi_kitty.gitbooks.io/biohack/content/)
+  * [Lixia.song 宋利霞](https://lixiasong.gitbooks.io/my-biohack/content/)
+  * [Maria Salomea Debinska](https://github.com/devilgirlfrommars/biohacking-academy-2017)
+  * [Yujie.ma 马玉杰](https://mayujie.gitbooks.io/gitbook/content/)
+  * [Huan.wu 吴欢](https://joycewu.gitbooks.io/bha-week1-sterilehood/content/)
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
   * [Kaitbryson](https://github.com/Kaitbryson)
   * [Sabrina Islam](http://www.github.com/sabislam)
