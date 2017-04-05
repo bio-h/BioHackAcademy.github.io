@@ -11,7 +11,7 @@ It's time for a party! Let's celebrate the end of 10 weeks of biohacking. Invite
 ## Schedule
 
 * Introduction
-* Project presentations
+* Project presentations [Video Part 1](https://vimeo.com/211687917) - [Video Part 2](https://vimeo.com/211688575)
 * Celebration!
 
 ## Assignment
