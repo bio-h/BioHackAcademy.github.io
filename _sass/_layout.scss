@@ -14,9 +14,8 @@ width: 100%;
 }
 
 @-moz-document url-prefix() {
-    .site-header {
-        margin-bottom: 56px;
-        background: #ff0000;
+    .page-content {
+        padding-top: 80px;
     }
 }
 
