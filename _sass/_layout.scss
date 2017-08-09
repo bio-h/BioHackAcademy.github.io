@@ -13,6 +13,13 @@ background: #fff;
 width: 100%;
 }
 
+@-moz-document url-prefix() {
+    .site-header {
+        margin-bottom: 56px;
+        background: #ff0000;
+    }
+}
+
 .site-title {
     font-size: 26px;
     line-height: 56px;
