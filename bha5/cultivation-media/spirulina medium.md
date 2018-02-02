@@ -17,6 +17,6 @@ Medium for growing the super food algae Spirulina
 |K<sub>2</sub>SO<sub>4</sub>|0.1|g|
 |MgSO<sub>4</sub>|0.1|g|
 |Trace Metals Solution|0.1|mL|
-|Distellid water|up to 1000|mL|
+|Distilled water|up to 1000|mL|
 
 [Back to Organisms](/bha4/organisms/)

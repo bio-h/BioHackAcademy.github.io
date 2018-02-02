@@ -8,7 +8,7 @@ categories: culture-collection
 ## Slime mold
 
 * Grows best on [Malt Agar](/bha4/cultivation-media/malt-agar/) with sterilized oat flakes
-* Find out more on [Wikipedia](https://en.wikipedia.org/wiki/Slime_mold) and [MicrobeWiki](http://biowiki.kenyon.edu/index.php/Physarum_Polycephalum)
+* Find out more on [Wikipedia](https://en.wikipedia.org/wiki/Slime_mold) and [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/Physarum_Polycephalum)
 * Bought on eBay
 
 ## Fun
