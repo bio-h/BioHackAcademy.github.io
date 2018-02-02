@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Classes
-permalink: /bha4/classes/
+permalink: /bha5/classes/
 ---
 
 ## Classes

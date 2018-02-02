@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 1 - Introduction
-permalink: /bha4/class/1/
+permalink: /bha5/class/1/
 ---
 
 ## Synopsys
@@ -10,6 +10,7 @@ You are at the start of your journey into the marvelous world of Biohacking. To 
 
 ## Schedule
 
+** to be updated **
 * Introduction [PDF](/bha4/class/1/pdf/0 - Introduction.pdf) - [Video](https://vimeo.com/201878928)
 * History of BioHacking [PDF](/bha4/class/1/pdf/1 - History of Biohacking.pdf) - [Video 1](https://vimeo.com/201878928) - [Video 2](https://vimeo.com/201883446)
 * Biosafety & Maker ethics [PDF](/bha4/class/1/pdf/2 - Biosafety & Maker ethics.pdf) - [Video](https://vimeo.com/201885356)
@@ -30,7 +31,7 @@ This week we will build our first Open Hardware lab device: the sterile hood. Th
 
 * [BHA_SterileHood repository](http://www.github.com/biohackacademy/BHA_SterileHood)
 
-![Sterile Hood]({{ site.baseurl }}/bha4/class/1/SterileHood.png)
+![Sterile Hood]({{ site.baseurl }}/5/class/1/SterileHood.png)
 
 ## Bill of Materials
 
@@ -76,4 +77,4 @@ Go ahead and buy a sterile hood:
 * Buy one on [eBay](http://www.ebay.com/bhp/laminar-flow-hood)
 
 
-Back to [BHA4 Classes](/bha4/classes/)
+Back to [BHA5 Classes](/bha5/classes/)
