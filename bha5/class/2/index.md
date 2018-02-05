@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Class 2 - Microbiology
-permalink: /bha4/class/2/
+permalink: /bha5/class/2/
 ---
-
 
 ## Synopsys
 
@@ -11,12 +10,11 @@ This week we will start growing microbes under controlled conditions. During the
 
 ## Schedule
 
-* Microbiology [PDF](/bha4/class/2/pdf/1 Microbiology.pdf) - [Video](https://vimeo.com/203093247)
-* Bio art / design - skipped due to lack of time
-* Documentation & Open source licensing [PDF](/bha4/class/2/pdf/4 Documentation.pdf) - [Video](https://vimeo.com/203093544)
+* Microbiology [PDF](/bha5/class/2/pdf/2.1 Microbiology.pdf)
+* Principles of Electronics [PDF](/bha5/class/2/pdf/2.2 Electronics.pdf)
+* Documentation & Open source licensing [PDF](/bha5/class/2/pdf/2.3 Documentation.pdf)
   * [Setting up a Github page](https://github.com/BioHackAcademy/BHA_DocumentationSite)
-* Magnetic Stirrer design [PDF](/bha4/class/2/pdf/5 Magnetic Stirrer design.pdf) - [Video](https://vimeo.com/203093639)
-* Principles of Electronics [PDF](/bha4/class/2/pdf/3 Electronics.pdf) - [Video](https://vimeo.com/203093471)
+* Magnetic Stirrer design [PDF](/bha4/class/2/pdf/2.4 Magnetic Stirrer design.pdf)
 * Practicals
   * [Contamination test](/bha4/class/2/contamination-test/)
   * [Cultivating microbes](/bha4/class/2/Microbe Cultivation Manual.pdf) of the [Culture Collection](/bha4/organisms/)
@@ -58,4 +56,4 @@ Go ahead and buy a stirrer:
 
 * [VWR](https://us.vwr.com/store/catalog/category.jsp?id=597830)
 
-Back to [BHA4 Classes](/bha4/classes/)
+Back to [BHA5 Classes](/bha5/classes/)
