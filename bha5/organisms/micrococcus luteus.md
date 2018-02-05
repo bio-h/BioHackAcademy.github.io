@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Micrococcus luteus (ML)
-permalink: /bha4/organisms/micrococcus-luteus/
+permalink: /bha5/organisms/micrococcus-luteus/
 categories: culture-collection
 ---
 

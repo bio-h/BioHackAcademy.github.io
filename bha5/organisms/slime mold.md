@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slime mold
-permalink: /bha4/organisms/slime-mold/
+permalink: /bha5/organisms/slime-mold/
 categories: culture-collection
 ---
 

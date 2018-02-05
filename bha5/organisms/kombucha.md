@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kombucha
-permalink: /bha4/organisms/kombucha/
+permalink: /bha5/organisms/kombucha/
 categories: culture-collection
 ---
 

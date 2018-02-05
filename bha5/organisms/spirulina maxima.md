@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spirulina maxima
-permalink: /bha4/organisms/spirulina-maxima/
+permalink: /bha5/organisms/spirulina-maxima/
 categories: culture-collection
 ---
 

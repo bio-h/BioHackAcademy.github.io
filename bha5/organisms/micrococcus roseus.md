@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Micrococcus roseus (MR) 
-permalink: /bha4/organisms/micrococcus-roseus/
+permalink: /bha5/organisms/micrococcus-roseus/
 categories: culture-collection
 ---
 

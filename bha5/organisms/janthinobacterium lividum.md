@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Janthinobacterium lividum (JL) 
-permalink: /bha4/organisms/janthinobacterium-lividum/
+permalink: /bha5/organisms/janthinobacterium-lividum/
 categories: culture-collection
 ---
 

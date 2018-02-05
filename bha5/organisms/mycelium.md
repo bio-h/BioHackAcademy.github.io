@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mycelium
-permalink: /bha4/organisms/mycelium/
+permalink: /bha5/organisms/mycelium/
 categories: culture-collection
 ---
 
