@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 3 - Electronics & Coding
-permalink: /bha4/class/3/
+permalink: /bha5/class/3/
 ---
 
 ## Synopsys
