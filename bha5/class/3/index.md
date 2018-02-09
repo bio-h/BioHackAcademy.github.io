@@ -10,9 +10,9 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 
 ## Schedule
 
-* Biomaterials [PDF](/bha4/class/3/pdf/1 - Biomaterials.pdf) - [Video1](https://vimeo.com/204175795) [Video2](https://vimeo.com/204151533)
-* Arduino - Digital Electronics [PDF](/bha4/class/3/pdf/3 - Arduino.pdf) - [Video](https://vimeo.com/204151618)
-* Incubator design [PDF](/bha4/class/3/pdf/4 - Incubator design.pdf) - [Video](https://vimeo.com/204175946)
+* Biomaterials 
+* Arduino - Digital Electronics 
+* Incubator design 
 * Practicals
   * [Isolating microbes](http://www.ableweb.org/volumes/vol-14/6-steubing.pdf)
   * Arduino coding
@@ -27,7 +27,7 @@ Living organisms need a nice and comfort environment to grow in.
 
 ## Bill of Materials
 
-This device is the first device in the course that makes use of an Arduno and digital electronics. You may either choose to connect all the components manually, or build the device on top of the [BioHack Academy board](https://github.com/BioHackAcademy/BioHackBoard). Make sure you order the parts in time!
+This device is the first device in the course that makes use of an Arduino and digital electronics. You may either choose to connect all the components manually, or build the device on top of the [BioHack Academy board](https://github.com/BioHackAcademy/BioHackBoard). Make sure you order the parts in time!
 
 In order to take part in this class you will need the following materials:
 
@@ -35,9 +35,11 @@ In order to take part in this class you will need the following materials:
 
 ## Additional reading and hacking
 
-* Arduino
+* Arduino 
+  * [Tutorials on arduino.cc](https://www.arduino.cc/en/Tutorial/HomePage)
   * [Getting started with Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
-  * [Ladyada Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
+  * [Arduino Cheatsheet, CC-BY-SA liffiton](https://github.com/liffiton/Arduino-Cheat-Sheet/blob/master/Arduino%20Cheat%20Sheet.pdf/)
+  * [Lecture "This is Arduino" by Maarten Lamers (MSc Media Technology, Leiden University)](http://www.mediatechnology.leiden.edu/openaccess/arduino)
   * [Soldering](https://www.youtube.com/watch?v=oqV2xU1fee8) YouTube video
 * Incubators
   * [Climaduino](http://www.instructables.com/id/Introducing-Climaduino-The-Arduino-Based-Thermosta/)
@@ -49,4 +51,4 @@ Go ahead and buy an incubator:
 
 * [Lucky Reptile](http://www.amazon.co.uk/Lucky-Reptile-HN-2UK-Nursery-Incubator/dp/B002NFR0HQ)
 
-Back to [BHA4 Classes](/bha4/classes/)
+Back to [BHA5 Classes](/bha5/classes/)
