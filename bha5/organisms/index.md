@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culture Collection
-permalink: /bha3/annex/culture-collection/
+permalink: /bha5/annex/culture-collection/
 ---
 
 ## Culture Collection
@@ -10,7 +10,7 @@ The following cultures are available in the Waag Society's Open Wetlab. In case 
 
 {% for page in site.pages %}
 {% if page.categories contains 'culture-collection' %}
-{% if page.url contains 'bha3' %}
+{% if page.url contains 'bha5' %}
 * [{{ page.title }}]({{ page.url | prepend: site.baseurl }})
 {% endif %}
 {% endif %}
