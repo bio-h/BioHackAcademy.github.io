@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Malt Agar (MA)
-permalink: /bha4/cultivation-media/malt-agar/
+permalink: /bha5/cultivation-media/malt-agar/
 categories: cultivation-media
 ---
 

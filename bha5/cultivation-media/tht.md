@@ -1,7 +1,7 @@
 ---
 layout: default
 title: THt (THt)
-permalink: /bha4/cultivation-media/tht/
+permalink: /bha5/cultivation-media/tht/
 categories: cultivation-media
 ---
 

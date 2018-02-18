@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azotobacter Agar (AA)
-permalink: /bha4/cultivation-media/azotobacter-agar/
+permalink: /bha5/cultivation-media/azotobacter-agar/
 categories: cultivation-media
 ---
 

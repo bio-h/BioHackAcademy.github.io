@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spirulina Medium (SM)
-permalink: /bha4/cultivation-media/spirulina-medium/
+permalink: /bha5/cultivation-media/spirulina-medium/
 categories: cultivation-media
 ---
 

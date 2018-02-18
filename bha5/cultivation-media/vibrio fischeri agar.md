@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vibrio Fischeri Agar (VFA)
-permalink: /bha4/cultivation-media/vibrio-fischeri-agar/
+permalink: /bha5/cultivation-media/vibrio-fischeri-agar/
 categories: cultivation-media
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nutrient Agar (NA)
-permalink: /bha4/cultivation-media/nutrient-agar/
+permalink: /bha5/cultivation-media/nutrient-agar/
 categories: cultivation-media
 ---
 

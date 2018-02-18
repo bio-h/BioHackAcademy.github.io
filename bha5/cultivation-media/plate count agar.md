@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plate Count Agar (PCA)
-permalink: /bha4/cultivation-media/plate-count-agar/
+permalink: /bha5/cultivation-media/plate-count-agar/
 categories: cultivation-media
 ---
 

@@ -10,9 +10,10 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 
 ## Schedule
 
-* Biomaterials 
-* Arduino - Digital Electronics 
-* Incubator design 
+* Molecular Biology [PDF](/bha5/class/3/pdf/3.1 Molecular Biology.pdf) - [Video](https://vimeo.com/255447806)
+* Bio Art [PDF](/bha5/class/3/pdf/3.2 Bio Art.pdf) - [Video](https://vimeo.com/255448615)
+* Arduino [PDF](/bha5/class/3/pdf/3.3 Arduino.pdf) - [Video](https://vimeo.com/255449220)
+* Incubator design [PDF](/bha5/class/3/pdf/3.4 Incubator design.pdf)
 * Practicals
   * [Isolating microbes](http://www.ableweb.org/volumes/vol-14/6-steubing.pdf)
   * Arduino coding

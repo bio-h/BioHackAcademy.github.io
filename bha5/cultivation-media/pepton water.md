@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peptone Water (PW)
-permalink: /bha4/cultivation-media/peptone-water/
+permalink: /bha5/cultivation-media/peptone-water/
 categories: cultivation-media
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ringer's Solution
-permalink: /bha4/cultivation-media/ringers-solution/
+permalink: /bha5/cultivation-media/ringers-solution/
 categories: cultivation-media
 ---
 

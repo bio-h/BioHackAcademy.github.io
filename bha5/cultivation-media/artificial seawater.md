@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artificial Seawater (ASW)
-permalink: /bha4/cultivation-media/artificial-seawater/
+permalink: /bha5/cultivation-media/artificial-seawater/
 categories: cultivation-media
 ---
 

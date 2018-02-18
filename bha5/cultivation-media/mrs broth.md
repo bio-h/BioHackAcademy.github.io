@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MRS Broth (MRSB)
-permalink: /bha4/cultivation-media/mrs-broth/
+permalink: /bha5/cultivation-media/mrs-broth/
 categories: cultivation-media
 ---
 

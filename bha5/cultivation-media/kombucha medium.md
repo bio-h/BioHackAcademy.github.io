@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kombucha Medium (KM)
-permalink: /bha4/cultivation-media/kombucha-medium/
+permalink: /bha5/cultivation-media/kombucha-medium/
 categories: cultivation-media
 ---
 

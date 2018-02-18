@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dinoflagellate Medium
-permalink: /bha4/cultivation-media/dinoflagellate/
+permalink: /bha5/cultivation-media/dinoflagellate/
 categories: cultivation-media
 ---
 

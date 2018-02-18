@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TH medium (TH)
-permalink: /bha4/cultivation-media/th-medium/
+permalink: /bha5/cultivation-media/th-medium/
 categories: cultivation-media
 ---
 

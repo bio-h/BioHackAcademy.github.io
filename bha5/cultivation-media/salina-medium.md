@@ -1,7 +1,7 @@
 ---
 layout: default
 title: D. Salina Medium (DSM)
-permalink: /bha4/cultivation-media/salina-medium/
+permalink: /bha5/cultivation-media/salina-medium/
 categories: cultivation-media
 ---
 

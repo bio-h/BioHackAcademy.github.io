@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peptone Agar (PA)
-permalink: /bha4/cultivation-media/peptone-agar/
+permalink: /bha5/cultivation-media/peptone-agar/
 categories: cultivation-media
 ---
 

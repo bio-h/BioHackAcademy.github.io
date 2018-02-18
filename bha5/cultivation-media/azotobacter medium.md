@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azotobacter Medium (AM)
-permalink: /bha4/cultivation-media/azotobacter-medium/
+permalink: /bha5/cultivation-media/azotobacter-medium/
 categories: cultivation-media
 ---
 

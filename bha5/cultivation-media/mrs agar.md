@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MRS Agar (MRSA)
-permalink: /bha4/cultivation-media/mrs-agar/
+permalink: /bha5/cultivation-media/mrs-agar/
 categories: cultivation-media
 ---
 

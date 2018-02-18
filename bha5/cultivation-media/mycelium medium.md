@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mycelium Medium (MM)
-permalink: /bha4/cultivation-media/mycelium-medium/
+permalink: /bha5/cultivation-media/mycelium-medium/
 categories: cultivation-media
 ---
 

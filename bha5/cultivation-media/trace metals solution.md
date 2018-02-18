@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trace Metals Solution (TMS)
-permalink: /bha4/cultivation-media/trace-metals-solution/
+permalink: /bha5/cultivation-media/trace-metals-solution/
 categories: cultivation-media
 ---
 
