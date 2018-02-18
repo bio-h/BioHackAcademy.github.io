@@ -8,28 +8,28 @@ Biohack Academy is an education program of Waag Society Amsterdam. Held for the 
 
 The team behind the first edition consists of:
 
-* Pieter van Boheemen (main coordinator)
-* Xiamyra Daal (assistant coordinator)
+* Roland van Dierendonck (programme coordinator)
+* Xiamyra Daal (programme coordinator)
 * Lucas Evers (bio art & design expert)
-* Nicolo Merendino (prototyping)
-* Roland van Dierendonck (biotech assistant)
-* Luke Boorman (biotech assistant)
-* Wieke Betten - Ethics guest lecturer
+* Emma Paresci (hardware expert)
+
+
 
 Previous editions of the BioHack Academy have been made possible by:
 
+* Pieter van Boheemen (founder)
 * Maria Boto Ordoñez (biotech assistant)
 * Hany Saad (fabrication assistant)
 * Veit Penzenstadler (fabrication assistant)
 * Jelmer Cnossen (prototyping)
-* Sonja Baumel - Guest lecturer
-* Adam Brown - Guest lecturer
+* Luke Boorman (biotech assistant)
+* Nicolo Merendino (digital febrication)
+* Wieke Betten - Ethics guest lecturer
+* Various Guest lecturers: Sonja Baumel, Adam Brown, Emma van der Leest, Gunther
 
 More information on [waag.org/biohackacademy](http://www.waag.org/biohackacademy)
 
-Interested in joining the fourth edition? Soon you can sign up for the Biohack Academy IV
-
-![Waag Society Open Wetlab]({{ site.baseurl }}/biofactory/graphics/WS_openwetlab_logo.png)
+Interested in joining the BHA2019? Soon you can sign up for the Biohack Academy 2019![Waag Society Open Wetlab]({{ site.baseurl }}/biofactory/graphics/WS_openwetlab_logo.png)
 
 This site was made using the base Jekyll theme. You can find out more info about customizing this Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
