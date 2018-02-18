@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preparing Microscope Slides
-permalink: /bha4/class/4/preparing-slides/
+permalink: /bha5/class/4/preparing-slides/
 ---
 
 ## Goal
@@ -52,4 +52,4 @@ In order to take a close look at a biological sample, you will need to prepare a
 8. a. Continue with staining OR b.Cover the droplet with a cover slide. 
 
 
-Back to [BHA4 - Class 4](/bha4/class/4/)
+Back to [BHA5 - Class 4](/bha5/class/4/)

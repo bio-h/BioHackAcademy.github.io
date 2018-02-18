@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Operating a Microscope
-permalink: /bha4/class/4/operating-microscope/
+permalink: /bha5/class/4/operating-microscope/
 ---
 
 ## Goal
@@ -43,4 +43,4 @@ Underneath the stage a third lens setup can be found. This is the condenser. Usi
 1. Switch of the light!!
 2. Select the 10x objective.
 
-Back to [BHA4 - Class 4](/bha4/class/4/)
+Back to [BHA5 - Class 4](/bha5/class/4/)

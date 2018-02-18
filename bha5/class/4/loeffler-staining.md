@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loeffler Staining
-permalink: /bha4/class/4/loeffler-staining/
+permalink: /bha5/class/4/loeffler-staining/
 ---
 
 ## Goal
@@ -53,4 +53,4 @@ Umberto Salvagnin](https://www.flickr.com/photos/kaibara/3839720754/) CC BY 2.0 
 
 * [Loeffler Methylene Staining instruction video](https://www.youtube.com/watch?v=vGjvSeJfhDs)
 
-Back to [BHA4 - Class 4](/bha4/class/4/)
+Back to [BHA5 - Class 4](/bha5/class/4/)

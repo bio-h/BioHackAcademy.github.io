@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gram Staining
-permalink: /bha4/class/4/gram-staining/
+permalink: /bha5/class/4/gram-staining/
 ---
 
 ## Goal
@@ -54,7 +54,7 @@ Assess whether the biological sample contains Gram positive or Gram negative bac
 * Gram negative cells appear red
 
 
-![Gram Stain](/bha4/class/4/gram-stain.jpg)
+Back to [BHA5 - Class 4](/bha5/class/4/)
 
 Microscopic image of a Gram stain of mixed Gram-positive cocci (Staphylococcus aureus ATCC 25923, purple) and Gram-negative bacilli (Escherichia coli ATCC 11775, red). Magnification: 1.000x - Picture by [Y tambe](http://commons.wikimedia.org/wiki/File:Gram_stain_01.jpg) CC BY SA 3.0 license 
 
@@ -63,4 +63,4 @@ Microscopic image of a Gram stain of mixed Gram-positive cocci (Staphylococcus a
 * [Wikipedia](http://en.wikipedia.org/wiki/Gram_staining)
 * [Gram Staining instruction video](https://www.youtube.com/watch?v=9Bnak_ITqck)
 
-Back to [BHA4 - Class 4](/bha4/class/4/)
+Back to [BHA5 - Class 4](/bha5/class/4/)

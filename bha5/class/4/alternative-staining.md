@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alternative stain
-permalink: /bha4/class/4/Alternative stain/
+permalink: /bha5/class/4/Alternative stain/
 ---
 
 ## Goal
@@ -42,4 +42,4 @@ Visualize cell nuclei in eukaryote cells.
 
 * [Illustrated guide to home biology](http://www.thehomescientist.com/manuals/Illustrated_Guide_to_Home_Biology_Experiments.pdf)
 
-Back to [BHA4 - Class 4](/bha4/class/4/)
+Back to [BHA5 - Class 4](/bha5/class/4/)

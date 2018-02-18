@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 4 - Optics & Genetics
-permalink: /bha4/class/4/
+permalink: /bha5/class/4/
 ---
 
 ## Synopsys
@@ -11,17 +11,15 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Optics - [video](https://vimeo.com/205290717) [PDF](/bha4/class/4/pdf/1 Microscopy & Optics theory.pdf)
-* Microscope Design - [video](https://vimeo.com/205290994) [PDF](/bha4/class/4/pdf/2 Microscope design.pdf)
-* Biotic Gaming - [video](https://vimeo.com/205291275) [PDF](/bha4/class/4/pdf/3 Biotic Gaming.pdf)
-* Bio art & design - [video](https://vimeo.com/205291560) [PDF](/bha4/class/4/pdf/4 Bio art design.pdf)
+* Optics 
+* Microscope Design 
 * Practicals
-  * [Preparing microscope slides](/bha4/class/4/preparing-slides/)
-  * [Operating a microscope](/bha4/class/4/operating-microscope/)
-  * [Gram Staining](/bha4/class/4/gram-staining/)
-  * [Loeffler Methylene Blue Staining](/bha4/class/4/loeffler-staining/)
+  * [Preparing microscope slides](/bha5/class/4/preparing-slides/)
+  * [Operating a microscope](/bha5/class/4/operating-microscope/)
+  * [Gram Staining](/bha5/class/4/gram-staining/)
+  * [Loeffler Methylene Blue Staining](/bha5/class/4/loeffler-staining/)
   * Liquid culturing
-  * [Alternative staining with food colouring](/bha4/class/4/Alternative stain/)
+  * [Alternative staining with food colouring](/bha5/class/4/Alternative stain/)
 
 ## Devices
 
