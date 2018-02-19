@@ -11,8 +11,8 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Optics 
-* Microscope Design 
+* Microscopy & Optics theory [PDF](/bha5/class/4/pdf/4.1 Microscopy & Optics theory.pdf)
+* Microscope Design [PDF](/bha5/class/4/pdf/4.2 Microscope design.pdf)
 * Practicals
   * [Preparing microscope slides](/bha5/class/4/preparing-slides/)
   * [Operating a microscope](/bha5/class/4/operating-microscope/)
