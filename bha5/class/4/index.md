@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Class 4 - Optics & Genetics
+title: Class 4 - Optics & Microscopy
 permalink: /bha5/class/4/
 ---
 
@@ -11,8 +11,9 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Microscopy & Optics theory [PDF](/bha5/class/4/pdf/4.1 Microscopy & Optics theory.pdf)
-* Microscope Design [PDF](/bha5/class/4/pdf/4.2 Microscope design.pdf)
+* Microscopy & Optics theory [PDF](/bha5/class/4/pdf/4.1 Microscopy & Optics theory.pdf) - [Video](https://vimeo.com/257136330)
+* Microscope Design [PDF](/bha5/class/4/pdf/4.2 Microscope design.pdf) - [Video](https://vimeo.com/257136811)
+* Gene.coop Discussion: genetics and ethics. [gene coop contract](/bha5/class/4/pdf/gene coop contract.pdf)
 * Practicals
   * [Preparing microscope slides](/bha5/class/4/preparing-slides/)
   * [Operating a microscope](/bha5/class/4/operating-microscope/)

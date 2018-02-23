@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Arthrobacter agilis (Aag) 
-permalink: /bha4/organisms/arthrobacter-agilis/
+permalink: /bha5/organisms/arthrobacter-agilis/
 categories: culture-collection
 ---
 
 ## Arthrobacter agilis (Aag) 
 
 * Pink pigment
-* Grows best on [Plate Count Agar](/bha4/cultivation-media/plate-count-agar/) or [Nutrient Agar](/bha4/cultivation-media/nutrient-agar/)
+* Grows best on [Plate Count Agar](/bha5/cultivation-media/plate-count-agar/) or [Nutrient Agar](/bha4/cultivation-media/nutrient-agar/)
 * Find out more on [Wikipedia](http://en.wikipedia.org/wiki/Arthrobacter) or [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/Arthrobacter)
 
-![arthrobacter agilis]({{ site.baseurl }}/bha4/organisms/Aag.JPG) 
+![arthrobacter agilis]({{ site.baseurl }}/bha5/organisms/Aag.JPG) 
 
-[Back to Culture Collection](/bha4/organisms/)
+[Back to Culture Collection](/bha5/organisms/)
