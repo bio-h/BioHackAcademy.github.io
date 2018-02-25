@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 5 - Genetics
-permalink: /bha4/class/5/
+permalink: /bha5/class/5/
 ---
 
 ## Synopsys
@@ -10,12 +10,14 @@ This week we will start working with DNA, the fundamental building block of life
 
 ## Schedule
 
-* Genetics [PDF](/bha4/class/5/pdf/1 - Genetics.pdf) [Video1](https://vimeo.com/206104677) [Video2](https://vimeo.com/206104335)
-* Thermocycler design [PDF](/bha4/class/5/pdf/2 - Thermocycler Design.pdf) [Video](https://vimeo.com/206104843)
+* Genetics 
+* Thermocycler design 
 * Practicals
-  * [DNA extraction](/bha4/class/5/DNA-extraction/)
-  * [DNA profiling](http://bio-rad.com/en-us/product/forensic-dna-fingerprinting-kit)
-  * [Cloning](http://www.bio-rad.com/en-nl/product/pglo-bacterial-transformation-kit)
+  * [DNA extraction](/bha5/class/5/DNA-extraction/)
+  * [Mystery Meat Experiment](/bha5/class/5/pdf/Mystery meat experiment.pdf)
+* Other possible practicals:
+  * [DNA profiling](http://www.bio-rad.com/en-nl/sku/1660007-forensic-dna-fingerprinting-kit?ID=1660007)
+  * [Cloning](http://www.bio-rad.com/en-nl/product/pglo-bacterial-transformation-kit?ID=619b8f74-9d3f-4c2f-a795-8a27e67598b7)
 
 ## Devices
 
@@ -27,7 +29,7 @@ We have started to design our own thermocycler, but there are already so many Op
 
 * [BHA_Thermocycler repository](https://github.com/BioHackAcademy/BHA_Thermocycler)
 
-![Thermocycler](/bha4/class/5/Thermocycler.png)
+![Thermocycler](/bha5/class/5/Thermocycler.png)
 
 ### Gelbox
 
@@ -35,7 +37,7 @@ Well, a Gelbox is exactly what the name tells you: a box. The only special featu
 
 * [BHA_Gelbox repository](https://github.com/BioHackAcademy/BHA_GelBox)
 
-![Gelbox](/bha4/class/5/GelBox.png)
+![Gelbox](/bha5/class/5/GelBox.png)
 
 ### Power supply
 
@@ -61,4 +63,4 @@ Go ahead and buy a thermocycler:
 
 * [BioRad PCR machines](http://www.bio-rad.com/en-nl/category/pcr-instrumentation)
 
-Back to [BHA4 Classes](/bha4/classes/)
+Back to [BHA5 Classes](/bha5/classes/)

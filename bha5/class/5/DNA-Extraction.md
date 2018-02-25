@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DNA Extraction
-permalink: /bha4/class/5/DNA-extraction/
+permalink: /bha5/class/5/DNA-extraction/
 ---
 
 This procedure will teach you how to isolate DNA from biological samples like saliva. Basically what we will do is open up the cells with soap, deteriate proteins with salt and precipitate the DNA with alcohol. Using the centrifuge, the DNA will stick to the bottom of our tube for us to get rid of the rest.
@@ -32,4 +32,4 @@ This procedure will teach you how to isolate DNA from biological samples like sa
 
 You may wash the pellet a few times if you like by repeating the procedure.
 
-Return to [BHA4 - Class 5](/bha4/class/5)
+Return to [BHA5 - Class 5](/bha5/class/5)
