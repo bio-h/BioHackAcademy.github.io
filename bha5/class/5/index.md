@@ -10,8 +10,8 @@ This week we will start working with DNA, the fundamental building block of life
 
 ## Schedule
 
-* Genetics 
-* Thermocycler design 
+* Genetics [PDF](/bha5/class/5/pdf/5.1 Genetics.pdf)
+* Thermocycler design [PDF](/bha5/class/5/pdf/5.1 Thermocycler Design.pdf)
 * Practicals
   * [DNA extraction](/bha5/class/5/DNA-extraction/)
   * [Mystery Meat Experiment](/bha5/class/5/pdf/Mystery meat experiment.pdf)
