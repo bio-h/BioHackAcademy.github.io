@@ -13,13 +13,13 @@ Here you may find [the instructions to create your own Github page](https://gith
 Please send the link to your documentation site as soon as it is setup to [roland@waag.org](mailto:roland@waag.org). 
 
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
-  *  (Jun Nishimura)[http://bha5.bioclub.org/participants/jun/]
-  *  (Hiroki Kaimoto)[http://bha5.bioclub.org/participants/hiroki/]
-  *  (Kazuhide Hane)[http://bha5.bioclub.org/participants/kazuhide/]
-  *  (Yohei Inokuchi)[http://bha5.bioclub.org/participants/yohei/]
-  *  (Johan R)[http://bha5.bioclub.org/participants/johan/]
-  *  (Keisuke Yamada)[http://bha5.bioclub.org/participants/keisuke/]
-  *  (Youngsah Seoung)[http://bha5.bioclub.org/participants/youngah/]
+  *  [Jun Nishimura](http://bha5.bioclub.org/participants/jun/)
+  *  [Hiroki Kaimoto](http://bha5.bioclub.org/participants/hiroki/)
+  *  [Kazuhide Hane](http://bha5.bioclub.org/participants/kazuhide/)
+  *  [Yohei Inokuchi](http://bha5.bioclub.org/participants/yohei/)
+  *  [Johan R](http://bha5.bioclub.org/participants/johan/)
+  *  [Keisuke Yamada](http://bha5.bioclub.org/participants/keisuke/)
+  *  [Youngsah Seoung](http://bha5.bioclub.org/participants/youngah/)
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
 * [Waag Society's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-5)
   *  Malu Lucking
