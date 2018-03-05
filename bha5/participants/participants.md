@@ -28,6 +28,6 @@ Please send the link to your documentation site as soon as it is setup to [rolan
   *  Matthijs de Block
   *  Alexander Rose
   *  Anna Pelgrim
-  *  Laura Olalde
+  *  [Laura Olalde](https://laola2020.github.io/)
   *  Imane Baiz
-  *  Nel Thomas
+  *  [Nel Thomas](https://www.littlepinkmaker.com/)
