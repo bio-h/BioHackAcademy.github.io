@@ -27,7 +27,7 @@ Please send the link to your documentation site as soon as it is setup to [rolan
   *  Jahangir Jahanbakshi
   *  Matthijs de Block
   *  Alexander Rose
-  *  Anna Pelgrim
+  *  [Anna Pelgrim](https://www.architectureofcure.com/biohackacademy)
   *  [Laura Olalde](https://laola2020.github.io/)
   *  Imane Baiz
   *  [Nel Thomas](https://www.littlepinkmaker.com/)

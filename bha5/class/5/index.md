@@ -14,7 +14,8 @@ This week we will start working with DNA, the fundamental building block of life
 * Thermocycler design [PDF](/bha5/class/5/pdf/5.1 Thermocycler Design.pdf)(https://vimeo.com/257594848)
 * Practicals
   * [DNA extraction](/bha5/class/5/DNA-extraction/)
-  * [Mystery Meat Experiment](/bha5/class/5/pdf/Mystery meat experiment.pdf)
+  * [Mystery Meat Experiment slides](/bha5/class/5/pdf/Mystery meat experiment.pdf)
+  * [Mystery Meat Experiment protocol](/bha5/class/5/pdf/Mystery Meat Protocol BHA5.pdf)
 * Other possible practicals:
   * [DNA profiling](http://www.bio-rad.com/en-nl/sku/1660007-forensic-dna-fingerprinting-kit?ID=1660007)
   * [Cloning](http://www.bio-rad.com/en-nl/product/pglo-bacterial-transformation-kit?ID=619b8f74-9d3f-4c2f-a795-8a27e67598b7)
