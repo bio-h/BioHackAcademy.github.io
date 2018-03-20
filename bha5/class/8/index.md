@@ -10,7 +10,7 @@ Microbes can generate a lot of data. Especially 3D data is beautiful and essenti
 
 ## Schedule
 
-* Bioinformatics [PDF] (/bha5/class/8/pdf/8.1 Bioinformatics.pdf)- [VIDEO](https://vimeo.com/260850851)
+* Bioinformatics [PDF] (/bha5/class/8/pdf/8.1 Bioinformatics.pdf) - [VIDEO](https://vimeo.com/260850851)
 * Guest Lecture Andrea Polli [VIDEO](https://vimeo.com/260834867)
 * Spectrometer Design [PDF](/bha5/class/8/pdf/8.2 Spectrophotometer.pdf) - [VIDEO](https://vimeo.com/260840245)
 * Practicals
