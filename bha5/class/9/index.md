@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Class 9 - Bioinformatics
-permalink: /bha4/class/9/
+title: Class 9 - bio-digital games and media
+permalink: /bha5/class/9/
 ---
 
 ## Synopsys
 
-Microbes can generate a lot of data. Especially 3D data is beautiful and essential to understand. We will give enzyme analysis a try. Next, spectroscopy is a great tool for monitoring the growth and production in your bioreactor. We will make our own light source and detector setup. The class is about other analytical techniques too.
+Traditionally the last BHA lecture covers some interesting topic with guest lectures. This time its a special class on the topic of bio-digital games and media, with experts from the field. 
 
 ## Schedule
 
-* Bioinformatics [Video](https://vimeo.com/210790320)
-* Spectrometer Design [Video](https://vimeo.com/210788894)
-* Practicals
-  * PyMol
-  * [Iodine Clock Reaction](/bha4/class/9/iodine-clock-reaction/)
+* Biotic-games Introduction (Roland van Dierendonck)
+* Wim van Eck & Maarten Lamers (Leiden University) 
+* Jan-Maarten Luursema
+* Raphael Kim (Queen Mary University) 
+* Pumps 
 
 ## Devices
 
@@ -27,13 +27,13 @@ This week you can build two types of pumps. As with the other projects, each of 
 
 ### Syringe pump
 
-This pump is best for moving small volumes of liquids.
+This pump is best for moving small volumes of liquids, on at a time.
 
 * [BHA_SyringePump repository](https://github.com/BioHackAcademy/BHA_SyringePump)
 
 ### Peristaltic pump
 
-This pump is best for moving small volumes of liquids.
+This pump is best continuously moving volumes of liquids.
 
 * [BHA_PeristalticPump repository](https://github.com/BioHackAcademy/BHA_PeristalticPump)
 * [Building guide](/biofactory/class/8-pumps/peristaltic-pump-building-guide/) 
@@ -64,4 +64,4 @@ Go ahead and buy some pumps:
 * [Syringepump.com](http://www.syringepump.com/index.php)
 * [LabX Peristaltic Pump](http://www.labx.com/pumps-peristaltic)
 
-Back to [BHA4 Classes](/bha4/classes/)
+Back to [BHA5 Classes](/bha5/classes/)
