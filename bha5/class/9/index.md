@@ -10,11 +10,11 @@ Traditionally the last BHA lecture covers some interesting topic with guest lect
 
 ## Schedule
 
-* Biotic-games Introduction (Roland van Dierendonck)
-* Wim van Eck & Maarten Lamers (Leiden University) 
-* Jan-Maarten Luursema
-* Raphael Kim (Queen Mary University) 
-* Pumps 
+* Biotic Games introduction - Euglena Spaceships [PDF](/bha5/class/9/pdf/9.1 Biotic Games at Waag.pdf) - [VIDEO](https://vimeo.com/261943580)
+* Wim van Eck & Maarten Lamers (Leiden University) - Organism Involved Computer Games [VIDEO](https://vimeo.com/261943628)
+* Jan-Maarten Luursema - Planet Andi [VIDEO](https://vimeo.com/261944053)
+* Raphael Kim (Queen Mary University) - Bio-digital interactions and Slow Biotic Games [VIDEO](https://vimeo.com/262571768)
+* Syringe pump and peristaltic pump design [PDF](/bha5/class/9/pdf/9.2 Pumps design.pdf) - [VIDEO](https://vimeo.com/261944564)
 
 ## Devices
 

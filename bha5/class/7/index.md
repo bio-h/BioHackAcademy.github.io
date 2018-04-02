@@ -13,8 +13,8 @@ We’ll also try to isolate our first biomaterial.
 
 ## Schedule
 
-* Guest Lecture Emma van der Leest (Blue City Lab) on biodesign and biomaterials [PDF](/bha5/class/7/pdf/7.2 Emma van der Leest.pdf) - [VIDEO](https://vimeo.com/259847179)
-* Guest Lecture Jesse Howard on open source hardware and syringe pumps [PDF](/bha5/class/7/pdf/7.3 Jesse Howard.pdf) - [VIDEO](https://vimeo.com/259760906)
+* Guest Lecture Emma van der Leest (Blue City Lab) on biodesign and biomaterials - [VIDEO](https://vimeo.com/259847179)
+* Guest Lecture Jesse Howard on open source hardware and syringe pumps - [VIDEO](https://vimeo.com/259760906)
 * Centrifuge design [PDF](/bha5/class/7/pdf/7.1 Centrifuge design.pdf) - [VIDEO](https://vimeo.com/259759474)
 * Practicals
   * Peer 2 Peer reviewing
