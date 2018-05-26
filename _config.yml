@@ -13,3 +13,5 @@ safe: false
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
